@@ -1,4 +1,3 @@
-# test-repository
-This is a second example
+# My first repository
 
-Hello world
+Kalob Taulien is my web development teacher on udemy
